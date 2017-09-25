@@ -3,7 +3,7 @@ package structtags_test
 import (
 	"testing"
 
-	structtags "github.com/leighmcculloch/go-structtags"
+	"4d63.com/structtags"
 )
 
 func BenchmarkParse(b *testing.B) {

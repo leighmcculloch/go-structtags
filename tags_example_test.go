@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/leighmcculloch/go-structtags"
+	"4d63.com/structtags"
 )
 
 func ExampleParse() {
